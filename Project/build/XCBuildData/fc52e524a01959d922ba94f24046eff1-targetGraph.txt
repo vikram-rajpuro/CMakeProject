@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+ZERO_CHECK in app_project, no dependencies
+app_project in app_project, depends on:
+ZERO_CHECK in app_project (explicit)
